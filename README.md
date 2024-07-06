@@ -1,1 +1,2 @@
 # fatalities-in-palestine
+an AI model aimed at predicting the types of injuries and fatalities in conflict zones, specifically focusing on Palestine. By analyzing data from various incidents, including the context, location, and nature of the events, the model can forecast the likely injuries and fatalities. This tool provides valuable insights for humanitarian organizations, helping them prepare and respond more effectively to emergencies, ultimately aiming to save lives and alleviate suffering in conflict-affected areas.
